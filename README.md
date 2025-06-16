@@ -34,7 +34,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/pdf/2504.02605)<br>
   *Zan et al., 2025* [[GitHub](https://github.com/multi-swe-bench/multi-swe-bench)] [[Leaderboard](https://multi-swe-bench.github.io/)]
 - [SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents](https://arxiv.org/abs/2504.08703)<br>
-  *Rashid et al., 2025* [[GitHub](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)]
+  *Rashid et al., 2025* [[GitHub](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)][[Dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
 
 ## 2. Methods
 - [SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution](https://arxiv.org/abs/2501.05040)<br>
