@@ -18,10 +18,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Contents
 
-- [1. Benchmarks](#benchmarks)
-- [2. Methods/Datasets](#methods-datasets)
-- [3. Tools](#tools)
-- [4. Blogs](#blogs)
+- [1. Benchmarks](#1-benchmarks)
+- [2. Methods/Datasets](#2-methods-datasets)
+- [3. Tools](#3-tools)
+- [4. Blogs](#4-blogs)
 
 ## 1. Benchmarks
 
@@ -46,18 +46,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 2. Methods/Datasets
 
-- [SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution](https://arxiv.org/abs/2501.05040)<br>
-  *Xie et al., 2025* [[GitHub](https://github.com/InternLM/SWE-Fixer)]
+- **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution** <br>
+  *Xie et al., 2025* [[Paper]((https://arxiv.org/abs/2501.05040))][[GitHub](https://github.com/InternLM/SWE-Fixer)]
 
-- [SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2504.21798)
-  *Yang et al., 2025* [[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
+- **SWE-smith: Scaling Data for Software Engineering Agents** <br>
+  *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
 ## 3. Tools
 
 
 ## 4. Blogs
 
-- [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/engineering/swe-bench-sonnet)<br>
-  *Engineering at Anthropic, 2025*
+- **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
+  *Engineering at Anthropic, 2025* [[Webpage](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
 
