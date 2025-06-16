@@ -23,10 +23,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [3. Tools](#3-tools)
 - [4. Blogs](#4-blogs)
 
-
 ## 1. Datasets
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)<br> 
-  *Jimenez et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/)]
+  *Jimenez et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
 - [SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)<br>
   *Yang et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/multimodal.html)]
 - [SWE-bench Multilingual](https://kabirk.com/multilingual)<br>
@@ -35,6 +34,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Zan et al., 2025* [[GitHub](https://github.com/multi-swe-bench/multi-swe-bench)] [[Leaderboard](https://multi-swe-bench.github.io/)]
 - [SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents](https://arxiv.org/abs/2504.08703)<br>
   *Rashid et al., 2025* [[GitHub](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)][[Dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
+- [SWE-bench Goes Live!](https://arxiv.org/abs/2505.23419)<br>
+  *Zhang et al., 2025* [[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
 ## 2. Methods
 - [SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution](https://arxiv.org/abs/2501.05040)<br>
