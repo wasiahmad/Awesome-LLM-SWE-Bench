@@ -55,7 +55,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ## 3. Agentic Methods and Datasets
 
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
-  *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)]
+  *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)][[Data & Models](https://huggingface.co/SWE-Gym)]
 
 
 ## 4. Blogs
