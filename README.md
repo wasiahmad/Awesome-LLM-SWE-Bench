@@ -25,11 +25,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 
 ## 1. Datasets
-- [**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770)<br> 
+- [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)<br> 
   *Jimenez et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/)]
+- [SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)<br>
+  *Yang et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/multimodal.html)]
+- [SWE-bench Multilingual](https://kabirk.com/multilingual)<br>
+  *Khandpur et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
+- [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://arxiv.org/pdf/2504.02605)<br>
+  *Zan et al., 2025* [[GitHub](https://github.com/multi-swe-bench/multi-swe-bench)] [[Leaderboard](https://multi-swe-bench.github.io/)]
+- [SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents](https://arxiv.org/abs/2504.08703)<br>
+  *Rashid et al., 2025* [[GitHub](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)]
 
 ## 2. Methods
-- [**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**](https://arxiv.org/abs/2501.05040)<br>
+- [SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution](https://arxiv.org/abs/2501.05040)<br>
   *Xie et al., 2025* [[GitHub](https://github.com/InternLM/SWE-Fixer)]
 
 ## 3. Tools
@@ -37,7 +45,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 4. Blogs
 
-- [**Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet**](https://www.anthropic.com/engineering/swe-bench-sonnet)<br>
+- [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/engineering/swe-bench-sonnet)<br>
   *Engineering at Anthropic, 2025*
 
 
