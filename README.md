@@ -19,8 +19,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ## Contents
 
 - [1. Benchmarks](#1-benchmarks)
-- [2. Methods/Datasets](#2-methods-datasets)
-- [3. Tools](#3-tools)
+- [2. Agentless Methods and Datasets](#2-agentless-methods-and-datasets)
+- [3. Agentic Methods and Datasets](#3-agentic-methods-and-datasets)
 - [4. Blogs](#4-blogs)
 
 ## 1. Benchmarks
