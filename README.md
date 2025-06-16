@@ -18,12 +18,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Contents
 
-- [1. Datasets](#1-datasets)
-- [2. Methods](#2-methods)
+- [1. Benchmarks](#1-benchmarks)
+- [2. Methods/Datasets](#2-methods-datasets)
 - [3. Tools](#3-tools)
 - [4. Blogs](#4-blogs)
 
-## 1. Datasets
+## 1. Benchmarks
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)<br> 
   *Jimenez et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
 - [SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)<br>
@@ -37,9 +37,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [SWE-bench Goes Live!](https://arxiv.org/abs/2505.23419)<br>
   *Zhang et al., 2025* [[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
-## 2. Methods
+## 2. Methods/Datasets
 - [SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution](https://arxiv.org/abs/2501.05040)<br>
   *Xie et al., 2025* [[GitHub](https://github.com/InternLM/SWE-Fixer)]
+- [SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2504.21798)
+  *Yang et al., 2025* [[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
 ## 3. Tools
 
