@@ -24,8 +24,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [4. Blogs](#4-blogs)
 
 
-### 1. Datasets
-
+## 1. Datasets
+- [**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770) *Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan.* ICLR 2024.
 
 ## 2. Methods
 
@@ -35,5 +35,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 4. Blogs
 
+- [**Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet**](https://www.anthropic.com/engineering/swe-bench-sonnet) *Engineering at Anthropic.* Jan 06, 2025
 
 
