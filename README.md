@@ -25,17 +25,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 
 ## 1. Datasets
-- [**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770) *Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan.* ICLR 2024.
+- [**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770)<br> 
+  *Jimenez et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/)]
 
 ## 2. Methods
-- [**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**](https://arxiv.org/abs/2501.05040) *Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, Difan Zou, Kai Chen.* arXiv 2025.
-  [[GitHub]](https://github.com/InternLM/SWE-Fixer)
+- [**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**](https://arxiv.org/abs/2501.05040)<br>
+  *Xie et al., 2025* [[GitHub](https://github.com/InternLM/SWE-Fixer)]
 
 ## 3. Tools
 
 
 ## 4. Blogs
 
-- [**Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet**](https://www.anthropic.com/engineering/swe-bench-sonnet) *Engineering at Anthropic.* Jan 06, 2025
+- [**Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet**](https://www.anthropic.com/engineering/swe-bench-sonnet)<br>
+  *Engineering at Anthropic, 2025*
 
 
