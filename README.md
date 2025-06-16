@@ -28,7 +28,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770) *Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan.* ICLR 2024.
 
 ## 2. Methods
-
+- [**SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution**](https://arxiv.org/abs/2501.05040) *Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, Difan Zou, Kai Chen.* arXiv 2025.
+  [[GitHub]](https://github.com/InternLM/SWE-Fixer)
 
 ## 3. Tools
 
