@@ -24,7 +24,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [4. Blogs](#4-blogs)
 
 ## 1. Benchmarks
-- SWE-bench: Can Language Models Resolve Real-World GitHub Issues? <br> 
+- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br> 
   *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)]
 - [SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)<br>
   *Yang et al., 2024* [[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)] [[Leaderboard](https://www.swebench.com/multimodal.html)]
