@@ -44,15 +44,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Zhang et al., 2025* [[Paper](https://arxiv.org/abs/2505.23419)][[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
 
-## 2. Methods/Datasets
+## 2. Agentless Methods and Datasets
 
 - **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution** <br>
-  *Xie et al., 2025* [[Paper]((https://arxiv.org/abs/2501.05040))][[GitHub](https://github.com/InternLM/SWE-Fixer)]
+  *Xie et al., 2025* [[Paper](https://arxiv.org/abs/2501.05040)][[GitHub](https://github.com/InternLM/SWE-Fixer)]
 
 - **SWE-smith: Scaling Data for Software Engineering Agents** <br>
   *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
-## 3. Tools
+## 3. Agentic Methods and Datasets
+
+- **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
+  *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)]
 
 
 ## 4. Blogs
