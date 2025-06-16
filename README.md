@@ -54,6 +54,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 3. Agentic Methods and Datasets
 
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
+  *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2405.15793)][[GitHub](https://github.com/SWE-agent/SWE-agent)]
+
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
+  *Wang et al., 2024* [[Paper](https://arxiv.org/abs/2407.16741)][[GitHub](https://github.com/All-Hands-AI/OpenHands)]
+
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)][[Data & Models](https://huggingface.co/SWE-Gym)]
 
