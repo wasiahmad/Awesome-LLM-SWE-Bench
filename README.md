@@ -19,7 +19,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ## Contents
 
 - [1. Benchmarks](#1-benchmarks)
-- [2. Agentless Methods and Datasets](#2-agentless-methods-and-datasets)
+- [2. Pipeline-based Methods and Datasets](#2-pipeline-based-methods-and-datasets)
 - [3. Agentic Methods and Datasets](#3-agentic-methods-and-datasets)
 - [4. Subtopics](#4-subtopics)
   - [4.1. File Localization](#41-file-localization)
@@ -48,7 +48,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Zhang et al., 2025* [[Paper](https://arxiv.org/abs/2505.23419)][[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
 
-## 2. Agentless Methods and Datasets
+## 2. Pipeline-based Methods and Datasets
+
+- **Agentless: Demystifying LLM-based Software Engineering Agents** <br>
+  *Xia et al., 2024* [[Paper](https://arxiv.org/abs/2407.01489)][[GitHub](https://github.com/OpenAutoCoder/Agentless)]
+
+- **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** <br>
+  *Li et al., 2025* [[Paper](https://arxiv.org/abs/2502.02747)][[GitHub](https://github.com/ucsb-mlsec/PatchPilot)]
 
 - **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution** <br>
   *Xie et al., 2025* [[Paper](https://arxiv.org/abs/2501.05040)][[GitHub](https://github.com/InternLM/SWE-Fixer)]
