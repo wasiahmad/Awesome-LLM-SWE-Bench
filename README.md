@@ -57,7 +57,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
 - **SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** <br>
-  ** Ma et al., 2025* [[Paper](https://arxiv.org/abs/2502.20127)]
+  *Ma et al., 2025* [[Paper](https://arxiv.org/abs/2502.20127)]
 
 
 ## 3. Agentic Methods and Datasets
