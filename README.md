@@ -79,6 +79,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **CoRet: Improved Retriever for Code Editing** <br>
   *Fehr et al., 2025* [[Paper](https://arxiv.org/abs/2505.24715)]
 
+- **CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**
+  *Jiang et al., 2025* [[Paper](https://arxiv.org/abs/2503.22424)][[GitHub](https://github.com/ZhonghaoJiang/CoSIL)]
+
 
 ### 4.2. Bug Fixing
 
