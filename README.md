@@ -56,6 +56,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-smith: Scaling Data for Software Engineering Agents** <br>
   *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
+- **SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** <br>
+  ** Ma et al., 2025* [[Paper](https://arxiv.org/abs/2502.20127)]
+
 
 ## 3. Agentic Methods and Datasets
 
@@ -79,7 +82,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **CoRet: Improved Retriever for Code Editing** <br>
   *Fehr et al., 2025* [[Paper](https://arxiv.org/abs/2505.24715)]
 
-- **CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**
+- **CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching** <br>
   *Jiang et al., 2025* [[Paper](https://arxiv.org/abs/2503.22424)][[GitHub](https://github.com/ZhonghaoJiang/CoSIL)]
 
 
