@@ -53,9 +53,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution** <br>
   *Xie et al., 2025* [[Paper](https://arxiv.org/abs/2501.05040)][[GitHub](https://github.com/InternLM/SWE-Fixer)]
 
-- **SWE-smith: Scaling Data for Software Engineering Agents** <br>
-  *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
-
 - **SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** <br>
   *Ma et al., 2025* [[Paper](https://arxiv.org/abs/2502.20127)]
 
@@ -70,6 +67,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)][[Data & Models](https://huggingface.co/SWE-Gym)]
+
+- **SWE-Smith: Scaling Data for Software Engineering Agents** <br>
+  *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
 
 ## 4. Subtopics
