@@ -21,7 +21,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [1. Benchmarks](#1-benchmarks)
 - [2. Agentless Methods and Datasets](#2-agentless-methods-and-datasets)
 - [3. Agentic Methods and Datasets](#3-agentic-methods-and-datasets)
-- [4. Blogs](#4-blogs)
+- [4. Subtopics](#4-subtopics)
+  - [4.1. File Localization](#41-file-localization)
+  - [4.2. Test Case Generation](#42-test-case-generation)
+- [5. Blogs](#5-blogs)
 
 ## 1. Benchmarks
 
@@ -63,8 +66,26 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)][[Data & Models](https://huggingface.co/SWE-Gym)]
 
+- **SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs** <br>
+  *Pham et al., 2025* [[Paper](https://arxiv.org/abs/2504.14757)][[GitHub](https://github.com/FSoft-AI4Code/SWE-Synth)]
 
-## 4. Blogs
+## 4. Subtopics
+
+### 4.1. File Localization
+
+- **SweRank: Software Issue Localization with Code Ranking** <br>
+  *Reddy et al., 2025* [[Paper](https://arxiv.org/abs/2505.07849)]
+
+- **CoRet: Improved Retriever for Code Editing** <br>
+  *Fehr et al., 2025* [[Paper](https://arxiv.org/abs/2505.24715)]
+
+### 4.2. Test Case Generation
+
+- **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
+  *Yu et al., 2025* [[Paper](https://arxiv.org/abs/2506.09289)][[GitHub](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
+
+
+## 5. Blogs
 
 - **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
   *Engineering at Anthropic, 2025* [[Webpage](https://www.anthropic.com/engineering/swe-bench-sonnet)]
