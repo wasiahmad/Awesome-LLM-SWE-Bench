@@ -77,6 +77,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-smith: Scaling Data for Software Engineering Agents** <br>
   *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
+- **SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling** <br>
+  *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2506.07636)][[GitHub](https://github.com/THUDM/SWE-Dev)]
+
 
 ## 4. Subtopics
 
@@ -90,6 +93,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching** <br>
   *Jiang et al., 2025* [[Paper](https://arxiv.org/abs/2503.22424)][[GitHub](https://github.com/ZhonghaoJiang/CoSIL)]
+
+- **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason** <br>
+  *Liang et al., 2025* [[Paper](https://arxiv.org/abs/2506.12286)]
 
 
 ### 4.2. Bug Fixing
