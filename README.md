@@ -80,6 +80,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2506.07636)][[GitHub](https://github.com/THUDM/SWE-Dev)]
 
+- **SWE-rebench: A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs** <br>
+  *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench)][[Leaderboard](https://swe-rebench.com/leaderboard)]
+
 
 ## 4. Subtopics
 
