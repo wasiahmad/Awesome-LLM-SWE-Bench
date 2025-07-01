@@ -86,6 +86,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-rebench: A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs** <br>
   *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench)][[Leaderboard](https://swe-rebench.com/leaderboard)]
 
+- **Nemotron-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity** <br>
+  *Sohrabizadeh et al., 2025* [[Paper](https://openreview.net/pdf?id=k6p8UKRdH7)]
+
 
 ## 4. Subtopics
 
@@ -102,6 +105,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason** <br>
   *Liang et al., 2025* [[Paper](https://arxiv.org/abs/2506.12286)]
+
+- **LocAgent: Graph-Guided LLM Agents for Code Localization** <br>
+  *Chen et al., 2025* [[Paper](https://arxiv.org/abs/2503.09089)][[GitHub](https://github.com/gersteinlab/LocAgent)]
 
 
 ### 4.2. Bug Fixing
