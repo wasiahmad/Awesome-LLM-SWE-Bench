@@ -26,6 +26,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - [1.5 Holistic & Agent-Centric Frameworks](#15-holistic--agent-centric-frameworks)
 - [2. Methodology: From Pipelines to Agents](#2-methodology-from-pipelines-to-agents)
 - [3. Specialized Task Modules (The "Sub-components")](#3-specialized-task-modules-the-sub-components)
+    - [3.1 Fault Localization & Graph-Based Retrieval](#31-fault-localization--graph-based-retrieval)
+    - [3.2 Cognitive & Memory-Enhanced Localization](#32-cognitive--memory-enhanced-localization)
+    - [3.3 Synthesis, Bug Fixing & Validation](#33-synthesis-bug-fixing--validation)
 - [4. Blogs](#4-blogs)
 
 ## 1. The Benchmark Suite (Evaluation & Data)
@@ -147,9 +150,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   
 ## 3. Specialized Task Modules (The "Sub-components")
 
-### 3.1. Fault Localization
-
-#### Retrieval-based Localization
+### 3.1. Fault Localization & Graph-Based Retrieval
 
 - **SweRank: Software Issue Localization with Code Ranking** <br>
   *Reddy et al., 2025* [[Paper](https://arxiv.org/abs/2505.07849)]
@@ -166,7 +167,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization** <br>
   *Caumartin et al., 2025* [[Paper](https://arxiv.org/abs/2512.07022)]
 
-#### Cognitive & Memory-Enhanced Localization
+### 3.2 Cognitive & Memory-Enhanced Localization
 
 - **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason** <br>
   *Liang et al., 2025* [[Paper](https://arxiv.org/abs/2506.12286)]
@@ -177,7 +178,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **Improving Code Localization with Repository Memory** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2510.01003)]
 
-### 3.2. Synthesis, Bug Fixing & Validation
+### 3.3 Synthesis, Bug Fixing & Validation
 
 - **SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs** <br>
   *Pham et al., 2025* [[Paper](https://arxiv.org/abs/2504.14757)][[GitHub](https://github.com/FSoft-AI4Code/SWE-Synth)][[Dataset](https://huggingface.co/swesynth)]
