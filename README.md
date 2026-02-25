@@ -59,9 +59,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)][[Dataset](https://huggingface.co/collections/eth-sri/swt-bench)]
 
+- **SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?** <br>
+  *He et al., 2025* [[Paper](https://arxiv.org/abs/2507.12415)][[GitHub](https://github.com/swe-perf/swe-perf)][[Leaderboard](https://swe-perf.github.io/leaderboard.html)][[Dataset](https://huggingface.co/datasets/SWE-Perf/SWE-Perf)]
+
 - **OmniCode: A Benchmark for Evaluating Software Engineering Agents** <br>
   *Sonwane et al., 2026* [[Paper](https://arxiv.org/abs/2602.02262)][[GitHub](https://github.com/seal-research/OmniCode)][[Dataset](https://huggingface.co/datasets/seal-research/OmniCode/tree/main)]
-
 
 
 ## 2. Pipeline-based Methods and Datasets
@@ -114,6 +116,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Manager: Selecting and Synthesizing Golden Proposals Before Coding** <br>
   *Tan et al., 2026* [[Paper](https://arxiv.org/abs/2601.22956)]
 
+- **SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models** <br>
+  *Xu et al., 2025* [[Paper](https://arxiv.org/abs/2511.05459)]
+
 
 ## 4. Subtopics
 
@@ -139,6 +144,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization** <br>
   *Caumartin et al., 2025* [[Paper](https://arxiv.org/abs/2512.07022)]
+
+- **Improving Code Localization with Repository Memory** <br>
+  *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2510.01003)]
 
 
 ### 4.2. Bug Fixing
