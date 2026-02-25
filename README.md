@@ -138,6 +138,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Manager: Selecting and Synthesizing Golden Proposals Before Coding** <br>
   *Tan et al., 2026* [[Paper](https://arxiv.org/abs/2601.22956)]
 
+- **SWE-RM: Execution-free Feedback For Software Engineering Agents** <br>
+  *Shum et al., 2025* [[Paper](https://arxiv.org/abs/2512.21919)]
+
+- **Agentic Rubrics as Contextual Verifiers for SWE Agents** <br>
+  *Raghavendra et al., 2026* [[Paper](https://arxiv.org/abs/2601.04171)]
+
 
 ### 2.3 Scaling Laws for Software Engineering
 
