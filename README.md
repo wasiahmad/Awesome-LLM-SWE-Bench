@@ -198,3 +198,22 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Engineering at Anthropic, 2025* [[Webpage](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
 
+## Contributing
+
+- Add a new paper or update an existing paper, thinking about which category the work should belong to.
+- Use the same format as existing entries to describe the work.
+- Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
+
+**Don't worry if you do something wrong, it will be fixed for you!**
+
+### Contributors
+
+<a href="https://github.com/wasiahmad/Awesome-LLM-SWE-Bench/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wasiahmad/Awesome-LLM-SWE-Bench" />
+</a>
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/Awesome-LLM-SWE-Bench&type=Timeline)](https://star-history.com/#atfortes/Awesome-LLM-SWE-Bench&Timeline)
+
+
