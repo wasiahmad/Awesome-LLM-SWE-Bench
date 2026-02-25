@@ -19,13 +19,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ## Contents
 
 - [1. The Benchmark Suite](#1-the-benchmark-suite)
-- [2. Pipeline-based Methods and Datasets](#2-pipeline-based-methods-and-datasets)
-- [3. Agentic Methods and Datasets](#3-agentic-methods-and-datasets)
-- [4. Subtopics](#4-subtopics)
-  - [4.1. File Localization](#41-file-localization)
-  - [4.2. Bug Fixing](#42-bug-fixing)
-  - [4.3. Test Case Generation](#43-test-case-generation)
-- [5. Blogs](#5-blogs)
+- [2. Methodology: From Pipelines to Agents](#2-methodology-from-pipelines-to-agents)
+- [3. Specialized Task Modules (The "Sub-components")](#3-specialized-task-modules-the-sub-components)
+- [4. Blogs](#4-blogs)
 
 ## 1. The Benchmark Suite (Evaluation & Data)
 
@@ -74,7 +70,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Sonwane et al., 2026* [[Paper](https://arxiv.org/abs/2602.02262)][[GitHub](https://github.com/seal-research/OmniCode)][[Dataset](https://huggingface.co/datasets/seal-research/OmniCode/tree/main)]
 
 
-## 2. Pipeline-based Methods and Datasets
+## 2. Methodology: From Pipelines to Agents
+
+### Static/Pipeline-based (Agentless)
 
 - **Agentless: Demystifying LLM-based Software Engineering Agents** <br>
   *Xia et al., 2024* [[Paper](https://arxiv.org/abs/2407.01489)][[GitHub](https://github.com/OpenAutoCoder/Agentless)]
@@ -82,14 +80,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** <br>
   *Li et al., 2025* [[Paper](https://arxiv.org/abs/2502.02747)][[GitHub](https://github.com/ucsb-mlsec/PatchPilot)]
 
-- **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution** <br>
-  *Xie et al., 2025* [[Paper](https://arxiv.org/abs/2501.05040)][[GitHub](https://github.com/InternLM/SWE-Fixer)]
-
-- **SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** <br>
-  *Ma et al., 2025* [[Paper](https://arxiv.org/abs/2502.20127)]
-
-
-## 3. Agentic Methods and Datasets
+### Agentic & Interactive
 
 - **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** <br>
   *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2405.15793)][[GitHub](https://github.com/SWE-agent/SWE-agent)]
@@ -97,17 +88,22 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
   *Wang et al., 2024* [[Paper](https://arxiv.org/abs/2407.16741)][[GitHub](https://github.com/All-Hands-AI/OpenHands)]
 
+### Training & Scaling Laws
+
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)][[Data & Models](https://huggingface.co/SWE-Gym)]
 
-- **SWE-smith: Scaling Data for Software Engineering Agents** <br>
-  *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
-
 - **SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2506.07636)][[GitHub](https://github.com/THUDM/SWE-Dev)]
+  
+- **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving** <br>
+  *Tao et al., 2026* [[Paper](https://arxiv.org/abs/2601.01426)]
 
-- **SWE-rebench: A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs** <br>
-  *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench)][[Leaderboard](https://swe-rebench.com/leaderboard)]
+
+
+
+- **SWE-smith: Scaling Data for Software Engineering Agents** <br>
+  *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
 - **Nemotron-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity** <br>
   *Sohrabizadeh et al., 2025* [[Paper](https://openreview.net/pdf?id=k6p8UKRdH7)]
@@ -115,8 +111,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2509.08724)]
 
-- **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving** <br>
-  *Tao et al., 2026* [[Paper](https://arxiv.org/abs/2601.01426)]
+
 
 - **SWE-Universe: Scale Real-World Verifiable Environments to Millions** <br>
   *Chen et al., 2026* [[Paper](https://arxiv.org/abs/2602.02361)]
@@ -127,8 +122,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models** <br>
   *Xu et al., 2025* [[Paper](https://arxiv.org/abs/2511.05459)]
 
+- **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution** <br>
+  *Xie et al., 2025* [[Paper](https://arxiv.org/abs/2501.05040)][[GitHub](https://github.com/InternLM/SWE-Fixer)]
 
-## 4. Subtopics
+- **SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** <br>
+  *Ma et al., 2025* [[Paper](https://arxiv.org/abs/2502.20127)]
+
+
+  
+## 3. Specialized Task Modules (The "Sub-components")
 
 ### 4.1. File Localization
 
