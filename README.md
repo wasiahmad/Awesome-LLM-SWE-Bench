@@ -146,11 +146,17 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-smith: Scaling Data for Software Engineering Agents** <br>
   *Yang et al., 2025* [[Paper](https://arxiv.org/abs/2504.21798)][[GitHub](https://github.com/SWE-bench/SWE-smith)][[Webpage](https://swesmith.com/)]
 
+- **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs** <br>
+  *Zeng et al., 2025* [[Paper](https://arxiv.org/abs/2506.19290)]
+  
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2509.08724)]
 
 - **SWE-Universe: Scale Real-World Verifiable Environments to Millions** <br>
   *Chen et al., 2026* [[Paper](https://arxiv.org/abs/2602.02361)]
+
+- **SWE-Factory: An Automatic Issue Resolution Dataset Construction Pipeline via LLM-based Multi Agents** <br>
+  *Guo et al., 2025* [[Paper](https://arxiv.org/abs/2506.10954)]
 
 #### Inference & Training Scaling
 
