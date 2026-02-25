@@ -111,6 +111,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Universe: Scale Real-World Verifiable Environments to Millions** <br>
   *Chen et al., 2026* [[Paper](https://arxiv.org/abs/2602.02361)]
 
+- **SWE-Manager: Selecting and Synthesizing Golden Proposals Before Coding** <br>
+  *Tan et al., 2026* [[Paper](https://arxiv.org/abs/2601.22956)]
+
 
 ## 4. Subtopics
 
