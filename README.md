@@ -29,7 +29,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 1. The Benchmark Suite (Evaluation & Data)
 
-### Core & Multimodal Extensions
+### Foundation & Vision
 
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br> 
   *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
@@ -37,7 +37,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
   *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2410.03859)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/multimodal.html)]
 
-### Multilingual Focus
+### Multilingual Benchmark Suites
 
 - **SWE-bench Multilingual** <br>
   *Khandpur et al., 2024* [[Webpage](https://kabirk.com/multilingual)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
@@ -51,7 +51,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?** <br>
   *Deng et al., 2025* [[Paper](https://arxiv.org/abs/2509.16941)][[GitHub](https://github.com/scaleapi/SWE-bench_Pro-os)][[Leaderboard](https://scale.com/leaderboard/swe_bench_pro_public)][[Dataset](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)]
 
-### Reliability & Realism
+### High-Fidelity & "Anti-Memorization" Suites
 
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**<br> 
   *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[GitHub](https://github.com/SWE-rebench/SWE-bench-fork)][[Leaderboard](https://swe-rebench.com/)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench-leaderboard)] <br>
@@ -62,7 +62,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?** <br> 
   *Miserendino et al., 2025* [[Paper](https://arxiv.org/abs/2502.12115)][[GitHub](https://github.com/openai/frontier-evals/tree/main/project/swelancer)][[Leaderboard](https://llm-stats.com/benchmarks/swe-lancer)] <br>
 
-### Task Specific
+### Specialized Verticals
 
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)][[Dataset](https://huggingface.co/collections/eth-sri/swt-bench)]
