@@ -51,7 +51,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Deng et al., 2025* [[Paper](https://arxiv.org/abs/2509.16941)][[GitHub](https://github.com/scaleapi/SWE-bench_Pro-os)][[Leaderboard](https://scale.com/leaderboard/swe_bench_pro_public)][[Dataset](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)]
 
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
-  *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
+  *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)][[Dataset](https://huggingface.co/collections/eth-sri/swt-bench)]
 
 
 ## 2. Pipeline-based Methods and Datasets
