@@ -18,7 +18,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Contents
 
-- [1. The Benchmark Suite](#1-the-benchmark-suite)
+- [1. The Benchmark Suite (Evaluation & Data)](#1-the-benchmark-suite-evaluation--data)
+    - [1.1 Foundation & Vision](#11-foundation--vision)
+    - [1.2 Multilingual Benchmark Suites](#12-multilingual-benchmark-suites)
+    - [1.3 High-Fidelity & "Anti-Memorization" Suites](#13-high-fidelity--anti-memorization-suites)
+    - [1.4 Specialized Verticals](#14-specialized-verticals)
+    - [1.5 Holistic & Agent-Centric Frameworks](#15-holistic--agent-centric-frameworks)
 - [2. Methodology: From Pipelines to Agents](#2-methodology-from-pipelines-to-agents)
 - [3. Specialized Task Modules (The "Sub-components")](#3-specialized-task-modules-the-sub-components)
 - [4. Blogs](#4-blogs)
