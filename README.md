@@ -29,17 +29,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 1. The Benchmark Suite (Evaluation & Data)
 
+### Core & Multimodal Extensions
+
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br> 
   *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
 
-- **SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?** <br> 
-  *Miserendino et al., 2025* [[Paper](https://arxiv.org/abs/2502.12115)][[GitHub](https://github.com/openai/frontier-evals/tree/main/project/swelancer)][[Leaderboard](https://llm-stats.com/benchmarks/swe-lancer)] <br>
-
-- **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**<br> 
-  *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[GitHub](https://github.com/SWE-rebench/SWE-bench-fork)][[Leaderboard](https://swe-rebench.com/)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench-leaderboard)] <br>
-
 - **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
   *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2410.03859)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/multimodal.html)]
+
+### Multilingual Focus
 
 - **SWE-bench Multilingual** <br>
   *Khandpur et al., 2024* [[Webpage](https://kabirk.com/multilingual)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Dataset](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)]
@@ -49,12 +47,22 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **SWE-PolyBench: A Multi-language Benchmark for Repository Level Evaluation of Coding Agents** <br>
   *Rashid et al., 2025* [[Paper](https://arxiv.org/abs/2504.08703)][[GitHub](https://github.com/amazon-science/SWE-PolyBench)][[Leaderboard](https://amazon-science.github.io/SWE-PolyBench/)][[Dataset](https://huggingface.co/datasets/AmazonScience/SWE-PolyBench)]
+  
+- **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?** <br>
+  *Deng et al., 2025* [[Paper](https://arxiv.org/abs/2509.16941)][[GitHub](https://github.com/scaleapi/SWE-bench_Pro-os)][[Leaderboard](https://scale.com/leaderboard/swe_bench_pro_public)][[Dataset](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)]
+
+### Reliability & Realism
+
+- **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**<br> 
+  *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[GitHub](https://github.com/SWE-rebench/SWE-bench-fork)][[Leaderboard](https://swe-rebench.com/)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench-leaderboard)] <br>
 
 - **SWE-bench Goes Live!** <br>
   *Zhang et al., 2025* [[Paper](https://arxiv.org/abs/2505.23419)][[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
-- **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?** <br>
-  *Deng et al., 2025* [[Paper](https://arxiv.org/abs/2509.16941)][[GitHub](https://github.com/scaleapi/SWE-bench_Pro-os)][[Leaderboard](https://scale.com/leaderboard/swe_bench_pro_public)][[Dataset](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)]
+- **SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?** <br> 
+  *Miserendino et al., 2025* [[Paper](https://arxiv.org/abs/2502.12115)][[GitHub](https://github.com/openai/frontier-evals/tree/main/project/swelancer)][[Leaderboard](https://llm-stats.com/benchmarks/swe-lancer)] <br>
+
+### Task Specific
 
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)][[Dataset](https://huggingface.co/collections/eth-sri/swt-bench)]
