@@ -18,7 +18,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Contents
 
-- [1. Benchmarks](#1-benchmarks)
+- [1. The Benchmark Suite](#1-the-benchmark-suite)
 - [2. Pipeline-based Methods and Datasets](#2-pipeline-based-methods-and-datasets)
 - [3. Agentic Methods and Datasets](#3-agentic-methods-and-datasets)
 - [4. Subtopics](#4-subtopics)
@@ -27,7 +27,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   - [4.3. Test Case Generation](#43-test-case-generation)
 - [5. Blogs](#5-blogs)
 
-## 1. Benchmarks
+## 1. The Benchmark Suite (Evaluation & Data)
 
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br> 
   *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
