@@ -29,8 +29,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 1. Benchmarks
 
-- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**<br> 
+- **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** <br> 
   *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
+
+- **SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?** <br> 
+  *Miserendino et al., 2025* [[Paper](https://arxiv.org/abs/2502.12115)][[GitHub](https://github.com/openai/frontier-evals/tree/main/project/swelancer)][[Leaderboard](https://llm-stats.com/benchmarks/swe-lancer)] <br>
 
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**<br> 
   *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[GitHub](https://github.com/SWE-rebench/SWE-bench-fork)][[Leaderboard](https://swe-rebench.com/)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench-leaderboard)] <br>
@@ -123,6 +126,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **LocAgent: Graph-Guided LLM Agents for Code Localization** <br>
   *Chen et al., 2025* [[Paper](https://arxiv.org/abs/2503.09089)][[GitHub](https://github.com/gersteinlab/LocAgent)]
+
+- **Extracting Conceptual Knowledge to Locate Software Issues** <br>
+  *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2509.21427)]
+
+- **Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization** <br>
+  *Caumartin et al., 2025* [[Paper](https://arxiv.org/abs/2512.07022)]
 
 
 ### 4.2. Bug Fixing
