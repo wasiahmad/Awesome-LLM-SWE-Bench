@@ -44,6 +44,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
   *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2410.03859)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/multimodal.html)]
 
+- **SWE-Bench Mobile: Can Large Language Model Agents Develop Industry-Level Mobile Applications?** <br>
+  *Tian et al., 2026* [[Paper](https://arxiv.org/abs/2602.09540)][[GitHub](?)][[Leaderboard](?)]
+
 ### 1.2 Multilingual Benchmark Suites
 
 - **SWE-bench Multilingual** <br>
