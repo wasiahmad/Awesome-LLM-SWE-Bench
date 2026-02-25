@@ -32,6 +32,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**<br> 
   *Jimenez et al., 2024* [[Paper](https://arxiv.org/abs/2310.06770)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/)][[Dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench)] <br>
 
+- **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**<br> 
+  *Badertdinov et al., 2025* [[Paper](https://arxiv.org/abs/2505.20411)][[GitHub](https://github.com/SWE-rebench/SWE-bench-fork)][[Leaderboard](https://swe-rebench.com/)][[Dataset](https://huggingface.co/datasets/nebius/SWE-rebench-leaderboard)] <br>
+
 - **SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?** <br>
   *Yang et al., 2024* [[Paper](https://arxiv.org/abs/2410.03859)][[GitHub](https://github.com/SWE-bench/SWE-bench/tree/main)][[Leaderboard](https://www.swebench.com/multimodal.html)]
 
@@ -91,6 +94,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **Nemotron-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity** <br>
   *Sohrabizadeh et al., 2025* [[Paper](https://openreview.net/pdf?id=k6p8UKRdH7)]
+
+- **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories** <br>
+  *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2509.08724)]
+
+- **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving** <br>
+  *Tao et al., 2026* [[Paper](https://arxiv.org/abs/2601.01426)]
+
+- **SWE-Universe: Scale Real-World Verifiable Environments to Millions** <br>
+  *Chen et al., 2026* [[Paper](https://arxiv.org/abs/2602.02361)]
 
 
 ## 4. Subtopics
