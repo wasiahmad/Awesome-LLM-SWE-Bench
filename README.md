@@ -59,6 +59,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)][[Dataset](https://huggingface.co/collections/eth-sri/swt-bench)]
 
+- **OmniCode: A Benchmark for Evaluating Software Engineering Agents** <br>
+  *Sonwane et al., 2026* [[Paper](https://arxiv.org/abs/2602.02262)][[GitHub](https://github.com/seal-research/OmniCode)][[Dataset](https://huggingface.co/seal-research/datasets)]
+
+
 
 ## 2. Pipeline-based Methods and Datasets
 
