@@ -198,6 +198,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Engineering at Anthropic, 2025* [[Webpage](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
 ## Contributing
 
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.
