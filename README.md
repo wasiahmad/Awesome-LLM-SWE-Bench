@@ -60,7 +60,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)][[Dataset](https://huggingface.co/collections/eth-sri/swt-bench)]
 
 - **OmniCode: A Benchmark for Evaluating Software Engineering Agents** <br>
-  *Sonwane et al., 2026* [[Paper](https://arxiv.org/abs/2602.02262)][[GitHub](https://github.com/seal-research/OmniCode)][[Dataset](https://huggingface.co/seal-research/datasets)]
+  *Sonwane et al., 2026* [[Paper](https://arxiv.org/abs/2602.02262)][[GitHub](https://github.com/seal-research/OmniCode)][[Dataset](https://huggingface.co/datasets/seal-research/OmniCode/tree/main)]
 
 
 
