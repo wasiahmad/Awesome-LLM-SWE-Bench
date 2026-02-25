@@ -147,7 +147,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   
 ## 3. Specialized Task Modules (The "Sub-components")
 
-### 3.1. File Localization
+### 3.1. Fault Localization
+
+#### Retrieval-based Localization
 
 - **SweRank: Software Issue Localization with Code Ranking** <br>
   *Reddy et al., 2025* [[Paper](https://arxiv.org/abs/2505.07849)]
@@ -158,33 +160,30 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching** <br>
   *Jiang et al., 2025* [[Paper](https://arxiv.org/abs/2503.22424)][[GitHub](https://github.com/ZhonghaoJiang/CoSIL)]
 
-- **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason** <br>
-  *Liang et al., 2025* [[Paper](https://arxiv.org/abs/2506.12286)]
-
 - **LocAgent: Graph-Guided LLM Agents for Code Localization** <br>
   *Chen et al., 2025* [[Paper](https://arxiv.org/abs/2503.09089)][[GitHub](https://github.com/gersteinlab/LocAgent)]
-
-- **Extracting Conceptual Knowledge to Locate Software Issues** <br>
-  *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2509.21427)]
 
 - **Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization** <br>
   *Caumartin et al., 2025* [[Paper](https://arxiv.org/abs/2512.07022)]
 
+#### Cognitive & Memory-Enhanced Localization
+
+- **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason** <br>
+  *Liang et al., 2025* [[Paper](https://arxiv.org/abs/2506.12286)]
+
+- **Extracting Conceptual Knowledge to Locate Software Issues** <br>
+  *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2509.21427)]
+  
 - **Improving Code Localization with Repository Memory** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2510.01003)]
 
-
-### 3.2. Bug Fixing
+### 3.2. Synthesis, Bug Fixing & Validation
 
 - **SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs** <br>
   *Pham et al., 2025* [[Paper](https://arxiv.org/abs/2504.14757)][[GitHub](https://github.com/FSoft-AI4Code/SWE-Synth)][[Dataset](https://huggingface.co/swesynth)]
 
-
-### 3.3. Test Case Generation
-
 - **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
   *Yu et al., 2025* [[Paper](https://arxiv.org/abs/2506.09289)][[GitHub](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
-
 
 ## 4. Blogs
 
