@@ -47,6 +47,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-bench Goes Live!** <br>
   *Zhang et al., 2025* [[Paper](https://arxiv.org/abs/2505.23419)][[GitHub](https://github.com/microsoft/SWE-bench-Live)][[Leaderboard](https://swe-bench-live.github.io/)][[Dataset](https://huggingface.co/datasets/SWE-bench-Live/SWE-bench-Live)]
 
+- **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?** <br>
+  *Deng et al., 2025* [[Paper](https://arxiv.org/abs/2509.16941)][[GitHub](https://github.com/scaleapi/SWE-bench_Pro-os)][[Leaderboard](https://scale.com/leaderboard/swe_bench_pro_public)][[Dataset](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)]
+
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
   *Mündler et al., 2024* [[Paper](https://arxiv.org/abs/2406.12952)][[GitHub](https://github.com/logic-star-ai/swt-bench)][[Leaderboard](https://swtbench.com/)]
 
