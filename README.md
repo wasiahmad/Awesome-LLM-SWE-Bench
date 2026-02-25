@@ -197,6 +197,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
   *Engineering at Anthropic, 2025* [[Webpage](https://www.anthropic.com/engineering/swe-bench-sonnet)]
 
+- **Why SWE-bench Verified no longer measures frontier coding capabilities** <br>
+  *OpenAI, 2026* [[Webpage](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)]
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
