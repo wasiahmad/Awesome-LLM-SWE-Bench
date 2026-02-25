@@ -47,6 +47,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Bench Mobile: Can Large Language Model Agents Develop Industry-Level Mobile Applications?** <br>
   *Tian et al., 2026* [[Paper](https://arxiv.org/abs/2602.09540)][[GitHub](?)][[Leaderboard](?)]
 
+
 ### 1.2 Multilingual Benchmark Suites
 
 - **SWE-bench Multilingual** <br>
@@ -61,6 +62,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?** <br>
   *Deng et al., 2025* [[Paper](https://arxiv.org/abs/2509.16941)][[GitHub](https://github.com/scaleapi/SWE-bench_Pro-os)][[Leaderboard](https://scale.com/leaderboard/swe_bench_pro_public)][[Dataset](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)]
 
+
 ### 1.3 High-Fidelity & "Anti-Memorization" Suites
 
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**<br> 
@@ -72,6 +74,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?** <br> 
   *Miserendino et al., 2025* [[Paper](https://arxiv.org/abs/2502.12115)][[GitHub](https://github.com/openai/frontier-evals/tree/main/project/swelancer)][[Leaderboard](https://llm-stats.com/benchmarks/swe-lancer)] <br>
 
+
 ### 1.4 Specialized Verticals
 
 - **SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents** <br>
@@ -82,6 +85,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **OmniCode: A Benchmark for Evaluating Software Engineering Agents** <br>
   *Sonwane et al., 2026* [[Paper](https://arxiv.org/abs/2602.02262)][[GitHub](https://github.com/seal-research/OmniCode)][[Dataset](https://huggingface.co/datasets/seal-research/OmniCode/tree/main)]
+
 
 ### 1.5 Holistic & Agent-Centric Frameworks
 
@@ -109,6 +113,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** <br>
   *Wang et al., 2024* [[Paper](https://arxiv.org/abs/2407.16741)][[GitHub](https://github.com/All-Hands-AI/OpenHands)]
 
+
 ### 2.2 Learning & Optimization Strategies
 
 #### Supervised & Subtask Fine-Tuning
@@ -122,11 +127,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving** <br>
   *Tao et al., 2026* [[Paper](https://arxiv.org/abs/2601.01426)]
 
-
 #### Alignment & Verification
 
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
   *Pan et al., 2024* [[Paper](https://arxiv.org/pdf/2412.21139)][[GitHub](https://github.com/SWE-Gym/SWE-Gym)][[Data & Models](https://huggingface.co/SWE-Gym)]
+
+- **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents** <br>
+  *Jain et al., 2024* [[Paper](https://arxiv.org/abs/2504.07164)][[GitHub](https://github.com/R2E-Gym/R2E-Gym)][[Data & Models](https://huggingface.co/R2E-Gym)]
 
 - **SWE-Manager: Selecting and Synthesizing Golden Proposals Before Coding** <br>
   *Tan et al., 2026* [[Paper](https://arxiv.org/abs/2601.22956)]
@@ -173,6 +180,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization** <br>
   *Caumartin et al., 2025* [[Paper](https://arxiv.org/abs/2512.07022)]
 
+
 ### 3.2 Cognitive & Memory-Enhanced Localization
 
 - **The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason** <br>
@@ -183,6 +191,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   
 - **Improving Code Localization with Repository Memory** <br>
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2510.01003)]
+
 
 ### 3.3 Synthesis, Bug Fixing & Validation
 
