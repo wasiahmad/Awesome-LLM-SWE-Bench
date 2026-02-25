@@ -147,7 +147,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   
 ## 3. Specialized Task Modules (The "Sub-components")
 
-### 4.1. File Localization
+### 3.1. File Localization
 
 - **SweRank: Software Issue Localization with Code Ranking** <br>
   *Reddy et al., 2025* [[Paper](https://arxiv.org/abs/2505.07849)]
@@ -174,19 +174,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   *Wang et al., 2025* [[Paper](https://arxiv.org/abs/2510.01003)]
 
 
-### 4.2. Bug Fixing
+### 3.2. Bug Fixing
 
 - **SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs** <br>
   *Pham et al., 2025* [[Paper](https://arxiv.org/abs/2504.14757)][[GitHub](https://github.com/FSoft-AI4Code/SWE-Synth)][[Dataset](https://huggingface.co/swesynth)]
 
 
-### 4.3. Test Case Generation
+### 3.3. Test Case Generation
 
 - **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench** <br>
   *Yu et al., 2025* [[Paper](https://arxiv.org/abs/2506.09289)][[GitHub](https://github.com/CUHK-Shenzhen-SE/UTBoost)]
 
 
-## 5. Blogs
+## 4. Blogs
 
 - **Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet** <br>
   *Engineering at Anthropic, 2025* [[Webpage](https://www.anthropic.com/engineering/swe-bench-sonnet)]
