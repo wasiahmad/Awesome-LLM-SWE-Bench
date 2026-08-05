@@ -127,6 +127,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving** <br>
   *Tao et al., 2026* [[Paper](https://arxiv.org/abs/2601.01426)]
 
+- **Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models** <br>
+  *Wang et al., 2026* [[Paper](https://arxiv.org/abs/2607.12463)][[GitHub](https://github.com/TIGER-AI-Lab/FIM-Midtraining)][[Data & Models](https://huggingface.co/collections/TIGER-Lab/fim-midtraining)]
+
 #### Alignment & Verification
 
 - **Training Software Engineering Agents and Verifiers with SWE-Gym** <br>
